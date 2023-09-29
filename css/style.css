@@ -1,0 +1,9 @@
+html * {
+    color: #423636;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+figcaption {
+    display: block;
+}
